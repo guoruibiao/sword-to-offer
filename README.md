@@ -1,7 +1,22 @@
 # sword-to-offer
 剑指Offer原书是用C++实现的，这里本人用Python对其中大部分使用了Python实现。
 
+
+
+## README目录自动生成
+因为文件数目略显臃肿，所以使用一个脚本来自动化生成了在GitHub上的链接。具体可以参考：
+
+- [自动化生成目录信息](https://github.com/guoruibiao/sword-to-offer/blob/master/mkreadme.py)
+- [自动化详细介绍](http://blog.csdn.net/marksinoberg/article/details/70175738)
+
+
+## 声明
+
+代码仅供参考，有哪些不恰当，不正确的地方，欢迎批评指正。(*^__^*) 谢谢……
+
 ---
+## 详细目录
+
  - [ 一个背包里面可以存放重量为weight的物品， 现有n件物品的集合s,其中质量分别为w0, w1,...wn-1.问能否从中选出若干物品，其和正好为weight
 ](https://github.com/guoruibiao/sword-to-offer/blob/master/datastructor1/Backage.py)
 
