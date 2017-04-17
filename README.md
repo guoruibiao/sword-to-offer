@@ -164,10 +164,5 @@
  - [ 携程笔试第一题题解思路
 ](https://github.com/guoruibiao/sword-to-offer/blob/master/xiecheng/1.py)
 
- - [ 携程笔试第二题题解思路
-](https://github.com/guoruibiao/sword-to-offer/blob/master/xiecheng/2.py)
-
- - [ 携程笔试第三题题解实现
-](https://github.com/guoruibiao/sword-to-offer/blob/master/xiecheng/3.py)
 
 
