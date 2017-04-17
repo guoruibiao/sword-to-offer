@@ -1,0 +1,5 @@
+def hello():
+    print('hello world!')
+
+def show(name):
+    print('hello %s'%name)
