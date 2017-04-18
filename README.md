@@ -137,6 +137,9 @@
  - [ 要求不使用乘除法，for，while，if,else,switch,case等关键字和三目运算实现这个和的运算。
 ](https://github.com/guoruibiao/sword-to-offer/blob/master/datastructor2/求1+2+到N.py)
 
+ - [ 堆和堆排序，默认使用大顶堆。
+](https://github.com/guoruibiao/sword-to-offer/blob/master/datastructor2/堆和堆排序.py)
+
  - [ 求一可棵二叉树的镜像
 ](https://github.com/guoruibiao/sword-to-offer/blob/master/datastructor2/求一可棵二叉树的镜像.py)
 
