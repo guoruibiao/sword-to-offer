@@ -15,7 +15,7 @@ def run(ls):
     else:
         currsum = ls[0]
         result = ls[0]
-        for index in range(1, len(ls)):
+        for index in range(0, len(ls)):
             if currsum <= 0:
                 currsum = ls[index]
             else:
